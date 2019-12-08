@@ -1,0 +1,5 @@
+Owl Carousel 2
+Animate.css
+Jquery
+Sweet Alerts 2
+Mailgo
